@@ -1,0 +1,25 @@
+div.button-wrapper {
+  width: 20%;
+  margin: 0 auto;
+}
+
+button {
+  margin-right: 5px;
+}
+
+a.signature {
+  display: block;
+  margin-right: 33px;
+  border: 1px solid #cdcdcd;
+  padding: 6px 12px;
+  width: 40%;
+  float: right;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #333;
+}
+
+a.signature:hover {
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
